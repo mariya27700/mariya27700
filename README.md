@@ -9,9 +9,9 @@
 
 ### 🛠️ Tech Stack
 - **Frontend**: HTML5, CSS3, JavaScript, Bootstrap  
-- **Programming**: Python, PHP  
+- **Programming**: Python,c
 - **Tools**: Git, GitHub, VS Code  
-- **Currently Learning**: React.js, Responsive Design
+- **Currently Learning**: React.js, Responsive Design, PHP  
 
 ---
 
