@@ -1,7 +1,27 @@
-## Hi, I'm Mariya 👩‍💻
+## 👋 Hi there, I'm Mariya!
 
-- 🎓 Final-year Engineering Student  
-- 💻 I build frontend websites using HTML, CSS, JavaScript, PHP  
-- 🌱 Currently improving my skills in React and Python  
-- 🚀 Open to internships and freelance work
+🎓 **Final-Year B.Tech Engineering Student**  
+💻 Passionate about **Frontend Web Development** and turning ideas into interactive web experiences  
+🌱 Currently learning **React**, diving deeper into **Python**, and exploring modern web technologies  
+🚀 Actively seeking **internships**, **freelance projects**, and opportunities to grow in the tech space
 
+---
+
+### 🛠️ Tech Stack
+- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap  
+- **Programming**: Python, PHP  
+- **Tools**: Git, GitHub, VS Code  
+- **Currently Learning**: React.js, Responsive Design
+
+---
+
+### 📂 Featured Projects
+- 📚 [Task Manager](https://github.com/mariya27700/task_manager)  
+- 💬 [Chatbot Using SQLite + Python](https://github.com/mariya27700/chatbot)  
+- 🏥 [Hospital Management System (PHP)](https://github.com/mariya27700/hospital-management)
+
+➡️ More projects on my [GitHub Repositories](https://github.com/mariya27700?tab=repositories)
+
+---
+
+⭐ *Thanks for visiting my GitHub! Feel free to check out my projects or reach out for collaboration!*
